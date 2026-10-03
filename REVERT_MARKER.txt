@@ -1,0 +1,3 @@
+This file marks the revert of commit c7f30577bb1c60ffd27b5e12155817fd3a77a688
+Reverted: "Expand textbook content: 6 levels, 5 subjects each, 10 chapters per subject, 10 pages per chapter"
+Reverted at: 2026-10-03
